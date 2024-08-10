@@ -50,3 +50,4 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - [Backend](https://github.com/vviccenzo/wordswap-backend) - Link do repositório do back-end
 - [Frontend](https://github.com/vviccenzo/wordswap-frontend) - Link do repositório do front-end
 - [Trello](https://trello.com/b/MItPZ4Db/wordswap) - Link do Trello
+- [Figma](https://www.figma.com/design/oOICFSeWxAyN8ygl9l71a1/Wordswap?m=auto&t=6nWAzHDDs0IWVF2n-6) - Link do Figma
