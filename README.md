@@ -43,11 +43,14 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 * **Banco de dados:** Postgres 
 * **Virtualização:** Docker
 * **Cloud:** AWS
+* **Code Review:** SonarCloud
 
 ## Links
 
 - [Wiki](https://github.com/vviccenzo/WordSwap/wiki/WordSwap) - Link da Wiki do projeto
 - [Backend](https://github.com/vviccenzo/wordswap-backend) - Link do repositório do back-end
 - [Frontend](https://github.com/vviccenzo/wordswap-frontend) - Link do repositório do front-end
-- [Trello](https://trello.com/b/MItPZ4Db/wordswap) - Link do Trello
+- [Jira](https://wordswap.atlassian.net/jira/software/projects/SCRUM/boards/1) - Link do Jira
 - [Figma](https://www.figma.com/design/oOICFSeWxAyN8ygl9l71a1/Wordswap?m=auto&t=6nWAzHDDs0IWVF2n-6) - Link do Figma
+- [SonarCloud - BackEnd](https://sonarcloud.io/project/overview?id=vviccenzo_wordswap-backend) - Link do SonarCloud do Back-end
+- [SonarCloud - FrontEnd](https://sonarcloud.io/project/overview?id=vviccenzo_wordswap-frontend) - Link do SonarCloud do Front-end
