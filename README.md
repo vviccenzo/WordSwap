@@ -42,7 +42,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 * **Back-end:** Java, Spring
 * **Banco de dados:** Postgres 
 * **Virtualização:** Docker
-* **Cloud:** AWS - EC2 & EDS (Back-end) e Vercel(Front-end)
+* **Cloud:** AWS - EC2 & RDS (Back-end) e Vercel(Front-end)
 * **Code Review:** SonarCloud
 
 ## Links
