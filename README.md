@@ -1,11 +1,14 @@
-<h1 style="text-align:center">WordSwap - Seu Chat Inteligente com Tradução</h1>
+<h1 style="text-align:center">WordSwap - Chat Inteligente com IA Integrada</h1>
 
-Bem-vindo ao WordSwap, a sua ferramenta definitiva para conversas inteligentes e conectadas. O WordSwap é um chat integrado com IA que traduz mensagens em tempo real, permitindo que você se comunique sem barreiras linguísticas. Seja para fins pessoais ou profissionais, o WordSwap facilita suas interações com pessoas de todo o mundo.
+Bem-vindo ao WordSwap, a solução completa para conversas globais e personalizadas. Com o WordSwap, você tem um chat inteligente que utiliza IA avançada para traduzir mensagens, corrigir ortografia e facilitar a comunicação sem barreiras linguísticas. Ideal para usos pessoais e profissionais, o WordSwap aprimora suas interações e torna a comunicação com pessoas de qualquer parte do mundo muito mais fácil.
 
-## Por que o WordSwap?
-* **Tradução Instantânea:** Comunique-se facilmente com pessoas que falam diferentes idiomas. O WordSwap traduz suas mensagens em tempo real, garantindo que você seja sempre compreendido.
-* **IA Integrada:** Aproveite a tecnologia de inteligência artificial para melhorar a qualidade da tradução e personalizar a experiência de chat. A IA aprende com suas interações, tornando as traduções mais precisas com o tempo.
-* **Fácil de Usar:** O WordSwap é intuitivo e fácil de navegar, permitindo que você comece a conversar e traduzir com apenas alguns cliques.
+## Por que escolher o WordSwap?
+* **Tradução e Correção Instantâneas:** Envie e receba mensagens que são automaticamente traduzidas para o idioma desejado e, se necessário, corrigidas ortograficamente. Assim, você sempre se comunica de forma clara e profissional.
+* **IA Aprimorada:** A tecnologia de IA aprende com suas conversas, tornando as traduções e correções cada vez mais precisas e personalizadas para o seu estilo de comunicação.
+* **Interface Intuitiva:** WordSwap é fácil de usar, com uma interface amigável que permite configurar preferências de idioma e correção rapidamente. Basta alguns cliques para começar a conversar de forma mais inteligente e sem fronteiras.
+
+Com o WordSwap, sua experiência de chat é elevada pela IA, trazendo mais conectividade e eficiência para suas conversas.
+
 
 ## Autores
 
