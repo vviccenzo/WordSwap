@@ -43,10 +43,13 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 * **Front-end:** React
 * **Back-end:** Java, Spring
-* **Banco de dados:** Postgres 
+* **Banco de dados:** Postgres (Render)
 * **Virtualização:** Docker
-* **Cloud:** AWS - EC2 & RDS (Back-end) e Vercel(Front-end)
+* **Cloud:** AWS - EC2 (Back-end) e Vercel(Front-end)
 * **Code Review:** SonarCloud
+* **CD:** Github Actions
+* **CI:** SonarCloud Quality Gate
+* *Monitoramente:** Grafana
 
 ## Links
 
