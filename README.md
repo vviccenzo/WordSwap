@@ -54,6 +54,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## Links
 
 - [Wiki](https://github.com/vviccenzo/WordSwap/wiki/WordSwap) - Link da Wiki do projeto
+- [Swagger](http://3.218.163.10/api/swagger-ui/index.html#/) - Link da Documentação da API
 - [Backend](https://github.com/vviccenzo/wordswap-backend) - Link do repositório do back-end
 - [Frontend](https://github.com/vviccenzo/wordswap-frontend) - Link do repositório do front-end
 - [Jira](https://wordswap.atlassian.net/jira/software/projects/SCRUM/boards/1) - Link do Jira
