@@ -49,7 +49,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 * **Code Review:** SonarCloud
 * **CD:** Github Actions
 * **CI:** SonarCloud Quality Gate
-* **Monitoramento:** Grafana
+* **Monitoramento:** Grafana e Prometheus
 
 ## Links
 
