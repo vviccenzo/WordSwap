@@ -75,9 +75,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
     <img src="https://img.shields.io/badge/java-%23F89820.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </span>
   <span>
-    <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  </span>
-  <span>
     <img src="https://img.shields.io/badge/junit-%232D2A31.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
   </span>
   <span>
@@ -92,8 +89,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - **Spring Boot**: Framework para construir aplicações Java de forma rápida e eficiente.
 
 - **Java**: Linguagem de programação de propósito geral, orientada a objetos.
-
-- **PostgreSQL*: Sistema de gerenciamento de banco de dados relacional objeto.
 
 - **JUnit**: Framework para realizar testes automatizados em Java.
 
