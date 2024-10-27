@@ -59,11 +59,8 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 - **Ant Design**: Framework de UI utilizado para componentes e estilos.
 - **React Router**: Para gerenciamento de rotas no aplicativo.
 - **Axios**: Para fazer requisições HTTP.
-- **Lodash**: Biblioteca utilitária para facilitar operações com arrays, objetos e outros tipos de dados.
 - **Moment.js**: Para manipulação e formatação de datas.
 - **Jest**: Framework de testes utilizado para realizar testes unitários.
-- **Testing Library**: Conjunto de utilitários para facilitar a escrita de testes em React.
-- **Babel**: Compilador JavaScript que permite usar a próxima geração de JavaScript, incluindo JSX e TypeScript.
 - **ESLint**: Ferramenta de linting para garantir a qualidade e padronização do código.
 
 # Back-end
@@ -87,13 +84,9 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Tecnologias e Ferramentas
 - **Spring Boot**: Framework para construir aplicações Java de forma rápida e eficiente.
-
 - **Java**: Linguagem de programação de propósito geral, orientada a objetos.
-
 - **JUnit**: Framework para realizar testes automatizados em Java.
-
 - **Mockito**: Biblioteca para simulação de objetos em testes unitários.
-
 - **Swagger**: Ferramenta para documentação de APIs RESTful.
 
 # Banco de Dados
