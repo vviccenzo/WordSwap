@@ -131,7 +131,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ## Monitoramento
 
-- **[Grafana](http://3.215.233.70:3000)**: Link para o painel de visualização de dados e métricas.
+- **[Grafana](http://3.215.233.70:3000)**: Link para o painel de visualização de dados e métricas. (usuário: admin, senha: alfa0923)
 - **[SonarCloud - BackEnd](https://sonarcloud.io/project/overview?id=vviccenzo_wordswap-backend)**: Link do SonarCloud do Back-end.
 - **[SonarCloud - FrontEnd](https://sonarcloud.io/project/overview?id=vviccenzo_wordswap-frontend)**: Link do SonarCloud do Front-end.
 
