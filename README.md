@@ -119,6 +119,9 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 # Links
 
+## Aplicação
+- **[WordSwap](https://wordswap.tech)**: Link da Aplicação.
+
 ## Documentação
 
 - **[Wiki do Projeto](https://github.com/vviccenzo/WordSwap/wiki/WordSwap)**: Link da Wiki do projeto.
