@@ -110,6 +110,13 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
     </span>
   </div>
 
+# Inteligência Artificial
+<div>
+  <span>
+    <img src="https://img.shields.io/badge/Gemini-%23FF8C00.svg?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  </span>
+</div>
+
 ## Ferramentas de Desenvolvimento
 - **Code Review:** SonarCloud
 - **Continuous Deployment (CD):** Github Actions
