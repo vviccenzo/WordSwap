@@ -4,7 +4,6 @@ Bem-vindo ao WordSwap, a solução completa para conversas globais e personaliza
 
 ## Por que escolher o WordSwap?
 * **Tradução e Correção Instantâneas:** Envie e receba mensagens que são automaticamente traduzidas para o idioma desejado e, se necessário, corrigidas ortograficamente. Assim, você sempre se comunica de forma clara e profissional.
-* **IA Aprimorada:** A tecnologia de IA aprende com suas conversas, tornando as traduções e correções cada vez mais precisas e personalizadas para o seu estilo de comunicação.
 * **Interface Intuitiva:** WordSwap é fácil de usar, com uma interface amigável que permite configurar preferências de idioma e correção rapidamente. Basta alguns cliques para começar a conversar de forma mais inteligente e sem fronteiras.
 
 Com o WordSwap, sua experiência de chat é elevada pela IA, trazendo mais conectividade e eficiência para suas conversas.
